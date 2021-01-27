@@ -1,0 +1,15 @@
+
+
+body{
+  background-color:#dddddd;
+}
+  hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #30475e;
+    height: 2px; width:5%;
+  }
+  h1,h3{
+    color: #4d375d;
+
+  }
